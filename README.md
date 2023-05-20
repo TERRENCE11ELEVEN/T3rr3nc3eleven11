@@ -1,4 +1,4 @@
-Hello my name is Terrence from South Africa Pretoria.
+Hello my name is Terrence from South Africa.
 I am a tech enthusiast and love the cybersecurity field.
 I want to contribute in the field by helping to create solutions for better security in the field.
 I also do have skills in  web development, Data visualization, and problem solving.
